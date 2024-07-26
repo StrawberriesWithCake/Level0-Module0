@@ -14,6 +14,6 @@ if yes =="yes":
     # 2. If they say "yes", tell them they will rule the world in a message box pop-up.
     # 3. Otherwise, tell them to sign up for classes at The League in an error box pop-up.
 else:
-    messagebox.showerror(title='Lame.', message="dude come on, dis was, like supposed to be ur finest momnet. Go take sum classs")
+    messagebox.showerror(title='Lame.', message="dude come on, dis was, like supposed to be ur finest momnet. Go take sum classse")
 
     # Run the window's .mainloop() method
